@@ -3,15 +3,15 @@
 *SIMPLICITY IS KEY
 *NEEDS TO BE SO SIMPLE A 3RD GRADER COULD DO IT
 
-THe main object of this application is to create an MVP to prove that this concept is possible. 
+The main object of this application is to create an MVP to prove that this concept is possible. This site is basically just going to act as a connector. All we need to do is develop a list of people who are willing to play and piggy back off of some already developed technology. (Google hangouts and google calenders)
 
-We want to create a way to connect kids battling cancer with their role models through a google hangout game. Right now they have already have a hangout ping pong game which looks pretty cool, although it has a few bugs. I think starting off that would be a nice way to start.
+We want to create a way to connect kids battling cancer with their role models through a google hangout game. Right now they already have a hangout ping pong game which looks pretty cool, although it has a few bugs. I think at first, that would be a nice way to start.
 
 Whats the big picture?
 
 If we can prove that it works and people are willing to do it, we can begin to make are own little games on top of Google hangout similar to the ping pong game or maybe like some wii games.. (Golf, Bowling, FUNGO GOLF)
 
-Eventually I would really like to make that idea of using the Xbox Kinect as a way connect people through gaming, but before we can get there we need to validate our concept.
+Eventually, I'd really like to make that idea of using the Xbox Kinect as a way connect people through gaming happen, but before we can get there we need to validate our concept and prove it works.
 
 Where do we start?
 
@@ -21,7 +21,7 @@ Where do we start?
 
  We need a way for users to create a profile with a picture, add a short little bio, age, etc..
 
- We need a find a game button. Which pulls up a list of all possible players. Users should be able view other peoples profiles and send them a game request
+ We need a "find a game button". Which pulls up a list of all possible players. Users should be able view other peoples profiles and send them a game request
 
       Something to think about:
 
@@ -33,12 +33,20 @@ Once the user selets who they want to play against we need to use the google han
 
 Once the time is set, a request is sent to the other party and if accepted the users will be sent a link for a hang out at that time/date, just as hangouts already does now.
 
-After the game is over players are redircted back to the home page of our website...
-Maybe leave a way for users to leave eachother feedback or a little note, I think would be pretty cool.
+Then the fun begins!
 
-Or even take some screen shots of the game and save them in a database would be really awesome.
+After the game is over players can leave feed back to each other, or leave a little note to their opponent.
+
+I also think it would be pretty cool if we could set up automatic screen shots to be taken during game play and save them to be viewed after the game and stored so players can comment on the photos.
+
+Once done, users can go back home or try to set up another game
+
+
 
 Hopefully we can play a small role in creating some great memories for a whole lot of kids
+
+
+- Build beautiful and meaningful things
 
 
 
